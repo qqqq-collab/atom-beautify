@@ -212,7 +212,7 @@
     "pug-beautify": "^0.1.1",
     "remark": "6.0.1",
     "season": "^6.0.2",
-    "semver": "^5.5.0",
+    "semver": "^5.7.2",
     "shell-env": "^0.3.0",
     "space-pen": "5.1.2",
     "strip-json-comments": "^2.0.1",
